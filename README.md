@@ -9,7 +9,7 @@
 - 🛠️ **Recent work:** Created [AI Interview Practice](https://github.com/usmanwaheeddev/ai-interview-practice), built an internal RAG assistant, and led a zero-downtime migration to Django REST Framework and PostgreSQL
 - ☁️ **Cloud and delivery:** AWS, Docker, Jenkins, and Bitbucket Pipelines
 - 📍 **Based in:** Modesto, California
-- 📫 **Contact:** [Email](mailto:waheed.usmandev@gmail.com)
+- 📫 **Contact:** [Email](mailto:waheed.usmandev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/usmanwaheeddev/)
 
 <h3 align="center">Featured Project</h3>
 
